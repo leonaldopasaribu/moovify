@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" translatable="false">Moovify</string>
+    <string name="no_internet_connection" translatable="false">No internet connection.</string>
+    <string name="app_component_factory" translatable="false">appComponentFactory</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="overview">Overview</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="favorite">Favorite</string>
+    <string name="_2018" translatable="false">2018</string>
+    <string name="no_fav_found">No Favorite Movies Found</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_data_available">No Data Available</string>
+    <string name="favorite_movies">Favorite Movies</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="app_will_remind_you_to_come_back_every_day">App will remind you to come back every day</string>
+    <string name="release_today_reminder">Release Today Reminder</string>
+    <string name="daily_reminder_msg">Moovify is missing you!</string>
+    <string name="release_today_reminder_msg">has been released today!</string>
+    <string name="no_movie_released">No movie released today</string>
+    <string name="backdrop_path">Backdrop Path</string>
+    <string name="you_will_get_notification_about_today_s_released_movie_s">You will get notification about today\'s released movie(s)</string>
+    <string name="moovify_is_missing_you">Moovify is missing you!</string>
+    <string name="today">Today</string>
+    <string name="enabled">ENABLED</string>
+    <string name="disabled">DISABLED</string>
+    <string name="released_today">Released today: </string>
+
+</resources>

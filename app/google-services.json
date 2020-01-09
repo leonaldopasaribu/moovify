@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "467708988852",
+    "firebase_url": "https://moovify-c8bdd.firebaseio.com",
+    "project_id": "moovify-c8bdd",
+    "storage_bucket": "moovify-c8bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467708988852:android:83ec41df9fb28077f976e1",
+        "android_client_info": {
+          "package_name": "com.stilldre.moovify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467708988852-vn80dhhvorhtr34kum7skavjjs6n9fq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stilldre.moovify",
+            "certificate_hash": "1a759895ed9a4048325542e9f0b16d46f8e7cc90"
+          }
+        },
+        {
+          "client_id": "467708988852-f6hp24gle8iqfe6hvbdpa0btheofrsst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTImt0mNidNKg5DIP97_sz64xxeZzJcKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467708988852-f6hp24gle8iqfe6hvbdpa0btheofrsst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

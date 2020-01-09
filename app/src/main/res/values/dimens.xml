@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="detail_app_bar_height">256dp</dimen>
+    <dimen name="detail_app_bar_elevation">4dp</dimen>
+    <dimen name="detail_textview_margin">16dp</dimen>
+    <dimen name="detail_textview_size">24sp</dimen>
+    <dimen name="detail_textview_margin_half">8dp</dimen>
+    <dimen name="detail_textview_margin_double">32dp</dimen>
+    <dimen name="search_margin_half">8dp</dimen>
+    <dimen name="search_margin">16dp</dimen>
+    <dimen name="search_elevation">4dp</dimen>
+    <dimen name="catalogue_cardview_height">128dp</dimen>
+    <dimen name="catalogue_cardview_margin">8dp</dimen>
+    <dimen name="catalogue_imageview_width">96dp</dimen>
+    <dimen name="catalogue_imageview_height">0dp</dimen>
+    <dimen name="textview_width">0dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="widget_font_size">24sp</dimen>
+    <dimen name="widget_font_size_big">18sp</dimen>
+    <dimen name="widget_margin_small">4dp</dimen>
+    <dimen name="font_size_normal">14sp</dimen>
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="card_corner">8dp</dimen>
+</resources>
